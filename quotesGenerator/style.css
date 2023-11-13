@@ -9,7 +9,7 @@
 }
 
 html {
-  background: url("./lib.jpg") no-repeat center center fixed;
+  background: url("./images/lib.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   background-size: cover;
 }
