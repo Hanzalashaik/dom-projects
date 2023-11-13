@@ -35,11 +35,8 @@ button.addEventListener('click',function(){
     });
 
     deleteButton.addEventListener('click',function(e){
-        let target = e.target;
-        // console.log(target);
-        
-        let i = target.parentElement.parentElement.remove();
-        // console.log(i);
+        let target = e.target;   
+        target.parentElement.parentElement.remove();
         
     })
 })
