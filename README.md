@@ -6,7 +6,7 @@
 ### About the Project 
 Welcome to the Quotes Generator project! This simple web application allows users to generate random quotes with just a click of a button. The project utilizes HTML, CSS, and JavaScript to create a user-friendly interface and employs DOM manipulation for quote generation.
 
-![Image](https://github.com/Hanzalashaik/hanzala_tasky/blob/main/images/home.png "Image")
+![Image](https://github.com/Hanzalashaik/dom-projects/blob/main/quotesGenerator/images/project%201.png "Image")
 
 ### Features
 
