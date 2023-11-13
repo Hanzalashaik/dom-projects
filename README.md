@@ -35,13 +35,14 @@ cd quotesGenerator
 
 ### Thank you for checking out the Quotes Generator project! If you have any questions or suggestions, feel free to open an issue or reach out to the project maintainers. Happy quoting! 📜✨
 
-## project 2
+# project 2
+
 <h1>To-Do List</h1>
 
 ### About the Project 
 Welcome to the ToDo List project! This web application helps you keep track of your tasks by allowing you to create, update, and delete items on your to-do list. The project is built using key concepts such as document.getElementById(), e.target, appendChild, addEventListener, createElement, parentElement, remove, and classList.add.
 
-![Image](https://github.com/Hanzalashaik/dom-projects/blob/main/quotesGenerator/images/project%201.png "Image")
+![Image](https://github.com/Hanzalashaik/dom-projects/blob/main/To-Do%20List/images/ss.png "Image")
 
 ### Installation
 To set up the Quotes Generator locally, follow these steps:
